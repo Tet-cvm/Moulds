@@ -1,0 +1,20 @@
+{
+  "name": "Moulds",
+  "version": "1.0.0",
+  "description": "webpack4多页面seo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tet-cvm/Moulds.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tet-cvm/Moulds/issues"
+  },
+  "homepage": "https://github.com/Tet-cvm/Moulds#readme"
+}
